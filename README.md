@@ -15,12 +15,10 @@
 
  ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Baskervville+SC&size=34&letterSpacing=3px&duration=2500&pause=1000&color=E9FF97&repeat=false&random=false&height=60&lines=Connect+With+Me+%F0%9F%8C%B8)](https://git.io/typing-svg)<p align="left">
-<a href="https://linkedin.com/in/krystle capuano" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krystle capuano" height="30" width="50" /></a>
-<a href="https://medium.com/@krystlecapuano" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krystlecapuano" height="30" width="50" /></a>
-<a href="https://www.hackerrank.com/@krystlecapuano" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krystlecapuano" height="30" width="50" /></a>
-<a href="https://www.leetcode.com/kcap923" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kcap923" height="30" width="50" /></a> 
 
-<a href= "mailto:krystlecapuano@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href= "https://linkedin.com/in/krystle capuano" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href= "mailto:krystlecapuano@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href= "" > <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 </p>
  
