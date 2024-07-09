@@ -15,7 +15,7 @@
  ##
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Baskervville+SC&size=34&letterSpacing=3px&duration=2500&pause=1000&color=E9FF97&repeat=false&random=false&height=60&lines=Connect+With+Me+%F0%9F%8C%B8)](https://git.io/typing-svg)<p align="left">
 
-<a href= "www.linkedin.com/in/krystlecapuano" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href= "https://www.linkedin.com/in/krystlecapuano/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href= "mailto:krystlecapuano@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href= "" > <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
