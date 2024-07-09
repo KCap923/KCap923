@@ -19,5 +19,8 @@
 <a href="https://medium.com/@krystlecapuano" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@krystlecapuano" height="30" width="50" /></a>
 <a href="https://www.hackerrank.com/@krystlecapuano" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@krystlecapuano" height="30" width="50" /></a>
 <a href="https://www.leetcode.com/kcap923" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kcap923" height="30" width="50" /></a> 
+
+<a href= "mailto:krystlecapuano@gmail.com" > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
 </p>
  
