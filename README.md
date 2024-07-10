@@ -25,7 +25,7 @@
 
  
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcap923&layout=compact&theme=ambient_gradient" />
+  <img height=180 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcap923&layout=compact&theme=ambient_gradient" />
 </a>
 
 <p height=150 align="left">
