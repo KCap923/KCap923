@@ -32,6 +32,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=KCap923&theme=cobalt&border_radius=5.5&ring=FF7EE2&fire=FFD18E&stroke=E9FF97&currStreakNum=FFA38F&sideLabels=E9FF97&sideNums=FFA38F&dates=FF7EE2&excludeDaysLabel=EB5454&currStreakLabel=FFD18E)](https://git.io/streak-stats)
 <p/>
 
+<div align="center">
+<h2> My Contributions </h2>
+<br>
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kcap923/kcap923/output/github-contribution-grid-snake.svg"/>
+
+<br> <br> <br> 
+</div>
+
 
 
 
