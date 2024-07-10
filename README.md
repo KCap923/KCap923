@@ -33,7 +33,7 @@
 
 <p/>
  
-![snake gif](https://github.com/KCap923/KCap923/blob/output/github-contribution-grid-snake.gif)
+<img alt="Snake Eating My Contributions" src="https://raw.githubusercontent.com/KCap923/KCap923/output/github-contribution-grid-snake-dark.svg" />
 
 
 
