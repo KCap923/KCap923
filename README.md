@@ -28,6 +28,8 @@
   <img height=170 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcap923&layout=compact&theme=ambient_gradient" />
 </a>
 <p height=150 align="left">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KCap923&theme=ambient-gradient&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFD18E&ring=FFA38F&sideNums=E9FF97)](https://git.io/streak-stats)
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=KCap923&theme=cobalt&border_radius=5.5&ring=FF7EE2&fire=FFD18E&stroke=E9FF97&currStreakNum=FFA38F&sideLabels=E9FF97&sideNums=FFA38F&dates=FF7EE2&excludeDaysLabel=EB5454&currStreakLabel=FFD18E)](https://git.io/streak-stats)
 
