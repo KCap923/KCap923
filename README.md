@@ -25,13 +25,8 @@
 
  
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcap923&layout=compact&theme=ambient_gradient" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcap923&layout=compact&theme=ambient_gradient" />
 </a>
-<p height=150 align="left">
-
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KCap923&theme=cobalt&border_radius=5.5&ring=FF7EE2&fire=FFD18E&stroke=E9FF97&currStreakNum=FFA38F&sideLabels=E9FF97&sideNums=FFA38F&dates=FF7EE2&excludeDaysLabel=EB5454&currStreakLabel=FFD18E)](https://git.io/streak-stats)
-
 
 <p/>
  
